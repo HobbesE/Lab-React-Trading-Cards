@@ -1,5 +1,5 @@
 "use strict";
-const tradingCardData = [
+const taradingCardData = [
   {
     name: 'Balloonicorn',
     skill: 'video games',
